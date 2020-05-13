@@ -1,2 +1,2 @@
 # hello-js
-Two project with Hello world in Node.js!
+Two projects with Hello world in Node.js!
